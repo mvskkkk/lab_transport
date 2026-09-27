@@ -24,6 +24,11 @@ bin/
 .DS_Store
 
 *.log
+*.log.zip
+*.log.gz
+*.zip
+*.gz
+
 target/
 *.jar
 !lib/*.jar
